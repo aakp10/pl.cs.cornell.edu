@@ -9,6 +9,18 @@ active = false
 
 [[news]]
   date = "May 2026"
+  content = "Dr. Keri D'Angelo defended her thesis! Congratulations, Keri!"
+
+[[news]]
+  date = "May 2026"
+  content = "Dr. Mark Moeller defended his thesis! Congratulations, Mark!"
+
+[[news]]
+  date = "May 2026"
+  content = "Dr. Noam Zilberstein defended his thesis! Congratulations, Noam!"
+
+[[news]]
+  date = "May 2026"
   content = "Spencer Van Koevering passed his A exam! Congratulations, Spencer!"
 
 [[news]]
@@ -17,7 +29,7 @@ active = false
 
 [[news]]
   date = "May 2026"
-  content = "Griffin Berlstein defended their thesis! Congratulations, Dr. Griffin!"
+  content = "Dr. Griffin Berlstein defended their thesis! Congratulations, Griffin!"
 
 [[news]]
   kind = "paper"
